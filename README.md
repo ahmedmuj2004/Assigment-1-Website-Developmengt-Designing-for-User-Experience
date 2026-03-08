@@ -694,5 +694,105 @@ By considering these different user needs when creating the design, it helped a 
 
 Task 3
 
+Design Accessible Wireframe:
+
+Introduction:
+
+A set of wireframes designs was created as part of the design process for the APA Watches website. Wireframes are useful because it helps designers to focus on how users will navigate the website and interact with it, before the final design is created.
+
+Three wireframe designs were created for the website; the desktop wireframe was chosen, and the homepage, product listing page and a contact form page were developed. These pages were designed to support the needs of users visiting the website, while accessibility and usability were considered. During the design process, attention was given to WCAG 2.1 accessibility guidelines to ensure that the website is easy to use for a wide range of users.
+
+Home-Page Wireframe:
+
+<img width="452" height="299" alt="image" src="https://github.com/user-attachments/assets/aadeef53-710f-45d5-a21b-0a21ce8a2013" />
+
+The homepage is the main entry point for all users visiting the APA Watches website. The design is based on helping users understand what the website is about and what it offers.
+
+At the top of the page, there is a navigation bar which includes the APA Watches logo, a search bar and different icons such as an icon for the user account, Wishlist and a shopping bag. Below this, there is a menu with links such as new in, shops, brands and outlets. This navigation layout helps users quickly understand different sections of the website without having to search around. Keeping the navigation simpler and clearer improves usability, especially for first-time users.
+
+The search bar is placed in the centre of the header so that it is very easy to find. This feature is good for returning users, as they can just search for a specific brand that they want to find watches from.
+
+The main section of the homepage contains a large banner featuring a watch, along with some promotional text. This is created to grab the users’ attention and to encourage them to start exploring the products on the website.
+
+Below the banner, there is a brand discovery section where users can see different watch brands. These buttons will allow users to quickly go to their preferred brand watches.
+When designing the page, accessibility and usability were also considered. The layout is very clean, so the user knows where to click. The text is clearer and readable, and the buttons are large enough for users to know where to go and where to click.
+Overall, the homepage provides a clear starting point for the website.
+
+Product listing page – wireframe
+
+<img width="334" height="316" alt="image" src="https://github.com/user-attachments/assets/91c6fd30-de21-4ccc-8c0d-815d0785b76f" />
+
+The product listing page allows users to browse and compare watches available on the website. This is the page where the user spends most of his time browsing the product s o this page is very important.
+
+A filter sidebar is included on the left side of the page. This will allow users to filter watches based on their preferences. Filters are useful to users who frequently visit the website.
+
+Each watch on this page is displayed using a product card that includes the product's image, name and prices. This will help users to compare different options based on their preferences.
+
+Each product card also includes an add to card option, which is a very clear, understandable action for the user. This will help the user to select the watch they want to purchase.
+
+At the bottom of the page, a simple, clear pagination bar is visible so that the user can go to the other pages to browse the watches. This ensures that the website is organised and easy to use.
+
+The layout of the page is designed so that it supports usability by keeping information clearly structured. The product images are large enough to be easily viewed and the text is visible and readable.
+
+Contact form page – Wireframe
+
+<img width="320" height="212" alt="image" src="https://github.com/user-attachments/assets/e0b69ed4-44a5-470b-a2d2-c1faf6c9a44e" />
+
+The contact form page allows the user to end any enquiry to the business. This page is very important to users who want to contact the business if they have any questions.
+
+This form includes clearly labelled input form fields such as name, email and message. Providing clear labels so that the users can understand which information is required in each field. 
+
+An important feature of the page is the error message. For example, if something is missing in the form or is incorrect, the system will let the user know what the problem is in the form.
+
+The page also includes a large send message button so that the user will not miss it and click the button to ensure that the message has been sent to the business. 
+Keeping the form page simple and easy helps ensure that the users can complete the form and send it quickly without any hassle.
+
+
+Supporting The User Needs:
+
+The wireframe designs were strongly influenced by the user personas created earlier.
+
+For example, the people that are first-time visitors on the website, the homepage supports clear navigation.
+
+The search bar supports the people who are returning visitors to the website so that they can quickly search for the product they want.
+
+The filter options on the product listing page supports frequently visitors who want to compare watches based on the price and brand.
+
+By considering these different user needs in the design process, the website aims to provide a smooth and efficient experience for all users.
+
+Accessibility And Usability:
+
+Throughout the design phase, accessibility was a key consideration. In order to guarantee that the website would be useable by as many users as possible, the wireframes were created in accordance with WCAG 2.1 requirements.
+
+To increase usability and accessibility, a number of design decisions were made:
+
+An easy-to-use navigation structure that facilitates page navigation
+
+Text and backgrounds with high contrast to enhance readability
+
+Form inputs should be clearly marked to assist screen readers.
+
+Easy layouts that steer clear of needless complexity
+
+Big buttons that are simple to press or click
+
+These choices contribute to making the website user-friendly, accessible to a variety of users, and easy to learn.
+
+Reflection On The Design Process:
+
+Creating the wireframes for the APA Watches website served to emphasise how crucial it is to start the design process with the user experience in mind.
+
+Choosing how to arrange the layout to maintain simplicity while incorporating all the elements was one of the design stage's challenges. While offering helpful features like search and filtering, it was crucial to avoid packing the page too full.
+
+Making sure accessibility concerns were taken into account from the beginning presented another difficulty. Making sure the text was readable, keeping the navigation simple, and giving clear form labels were all made possible by adhering to WCAG criteria.
+
+It was simpler to see how people would navigate the website when wireframes were created before the final design. Additionally, it assisted in locating places where usefulness
+
+<img width="452" height="301" alt="image" src="https://github.com/user-attachments/assets/d73e7191-09ec-4881-aa42-4be43d5c19d4" />
+
+
+
+
+
 
 
