@@ -704,7 +704,7 @@ Three wireframe designs were created for the website; the desktop wireframe was 
 
 Home-Page Wireframe:
 
-<img width="452" height="299" alt="image" src="https://github.com/user-attachments/assets/aadeef53-710f-45d5-a21b-0a21ce8a2013" />
+<img width="1522" height="992" alt="image" src="https://github.com/user-attachments/assets/aadeef53-710f-45d5-a21b-0a21ce8a2013" />
 
 The homepage is the main entry point for all users visiting the APA Watches website. The design is based on helping users understand what the website is about and what it offers.
 
@@ -720,7 +720,7 @@ Overall, the homepage provides a clear starting point for the website.
 
 Product listing page – wireframe
 
-<img width="334" height="316" alt="image" src="https://github.com/user-attachments/assets/91c6fd30-de21-4ccc-8c0d-815d0785b76f" />
+<img width="1522" height="922" alt="image" src="https://github.com/user-attachments/assets/91c6fd30-de21-4ccc-8c0d-815d0785b76f" />
 
 The product listing page allows users to browse and compare watches available on the website. This is the page where the user spends most of his time browsing the product s o this page is very important.
 
@@ -736,7 +736,7 @@ The layout of the page is designed so that it supports usability by keeping info
 
 Contact form page – Wireframe
 
-<img width="320" height="212" alt="image" src="https://github.com/user-attachments/assets/e0b69ed4-44a5-470b-a2d2-c1faf6c9a44e" />
+<img width="1522" height="922" alt="image" src="https://github.com/user-attachments/assets/e0b69ed4-44a5-470b-a2d2-c1faf6c9a44e" />
 
 The contact form page allows the user to end any enquiry to the business. This page is very important to users who want to contact the business if they have any questions.
 
@@ -788,7 +788,7 @@ Making sure accessibility concerns were taken into account from the beginning pr
 
 It was simpler to see how people would navigate the website when wireframes were created before the final design. Additionally, it assisted in locating places where usefulness
 
-<img width="452" height="301" alt="image" src="https://github.com/user-attachments/assets/d73e7191-09ec-4881-aa42-4be43d5c19d4" />
+<img width="1522" height="922" alt="image" src="https://github.com/user-attachments/assets/d73e7191-09ec-4881-aa42-4be43d5c19d4" />
 
 
 
