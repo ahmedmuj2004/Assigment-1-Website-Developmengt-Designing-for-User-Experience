@@ -791,8 +791,26 @@ It was simpler to see how people would navigate the website when wireframes were
 <img width="1522" height="922" alt="image" src="https://github.com/user-attachments/assets/d73e7191-09ec-4881-aa42-4be43d5c19d4" />
 
 
+References For Design 2:
+
+Garrett, J.J. (2011) The Elements of User Experience: User-Centered Design for the Web and Beyond. 2nd edn. Berkeley: New Riders.
+Krug, S. (2014) Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd edn. Berkeley: New Riders.
+Nielsen, J. (1994) Usability Engineering. San Francisco: Morgan Kaufmann.
+Watchfinder & Co. (2024) Watchfinder Official Website. Available at: https://www.watchfinder.co.uk (Accessed: 8 March 2026).
+World Wide Web Consortium (W3C) (2018) Web Content Accessibility Guidelines (WCAG) 2.1. Available at: https://www.w3.org/TR/WCAG21/ (Accessed: 8 March 2026).
 
 
+Accessibility example
+The website design follows accessibility principles to ensure it can be used by a wide range of users (World Wide Web Consortium, 2018).
+
+Usability example
+Simple navigation and clear layouts help improve usability and allow users to complete tasks more easily (Krug, 2014).
+
+User experience example
+Wireframes help designers plan the structure and user experience of a website before development begins (Garrett, 2011).
+
+Competitor example
+A competitor website was analysed to understand how successful watch retailers structure their websites (Watchfinder & Co., 2024).
 
 
 
