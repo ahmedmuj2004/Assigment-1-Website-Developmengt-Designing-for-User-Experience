@@ -794,10 +794,15 @@ It was simpler to see how people would navigate the website when wireframes were
 References For Design 2:
 
 Garrett, J.J. (2011) The Elements of User Experience: User-Centered Design for the Web and Beyond. 2nd edn. Berkeley: New Riders.
+
 Krug, S. (2014) Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd edn. Berkeley: New Riders.
+
 Nielsen, J. (1994) Usability Engineering. San Francisco: Morgan Kaufmann.
+
 Watchfinder & Co. (2024) Watchfinder Official Website. Available at: https://www.watchfinder.co.uk (Accessed: 8 March 2026).
+
 World Wide Web Consortium (W3C) (2018) Web Content Accessibility Guidelines (WCAG) 2.1. Available at: https://www.w3.org/TR/WCAG21/ (Accessed: 8 March 2026).
+
 
 
 Accessibility example
