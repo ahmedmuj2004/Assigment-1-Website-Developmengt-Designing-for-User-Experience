@@ -577,6 +577,8 @@ This supports first-time visitors with guiding them throughout the website and t
 
 Design 2: Ahmed Mujtaba
 
+Task 1
+
 Identify Business Needs and Justify Website Development:
 
 Business Needs:
@@ -613,7 +615,84 @@ By analysing the website, several useful features were identified that helped in
 <img width="1522" height="992" alt="image" src="https://github.com/user-attachments/assets/0b3e419f-2a7b-4f92-b461-c981c1941cb7" />
 
 
+Task 2
 
+User Analysis 
+
+To design a successful website, understanding the needs of different users is very important. For the APA Watches website, three different personas were created to present the different types of victors. These personas help identify what users want to achieve when they are visiting the website, which is to ensure that the created design supports all the customers’ needs.
+
+Persona 1 – For First Time Visitor
+
+Name: Zayn
+
+Age: 26
+
+Occupation: Marketing Assistant
+
+Zayn is visiting the APA Watches website for the first time. Zayn is interested in buying a watch but is confused and is exploring different styles and brands. Zayn wants a website which is easy to navigate and compare the watches before buying one.
+
+User-Story:
+
+As a first-time visitor, I want to browse different watches easily on the website so that I can explore the different options available and decide.
+
+Tasks:
+
+Zayn will visit the homepage first. To access the shop page, he will use the navigation menu and browse all the available watches. View different prices and product information.
+
+Acceptance Criteria
+
+Given that Zayn is visiting the website for the first time when he opens the shop page, then he should be able to see a clear list of watches with the images, names and prices.
+
+Persona 2 – For Returning Visitor 
+
+Name: Sarah
+
+Age: 30
+
+Occupation: Office Manager
+
+Sarah has visited the website before and is now returning because she remembers a watch she saw before and likes it. She wants to quickly find the watch she liked without having to browse through different pages.
+
+User Story:
+
+As a returning visitor, I want to search for a specific watch so that I can quickly find and purchase it.
+
+Tasks:
+
+Sarah will visit the website’s homepage, use the search bar to search for the brand, locate the product listing, add the watch to her cart.
+
+Acceptance criteria:
+
+Given that Sarah is a returning customer to the website, when she uses the search bar, the website should display the relevant watch results matching her search preference.
+
+Persona 3 – Frequent Visitor
+
+Name: Zahra
+
+Age: 35
+
+Occupation: Watch collector
+
+Zahra regularly visits different watch websites to explore new watches and compare different models. She values websites that allow her to filter watches and compare them through websites.
+
+User Story:
+
+As a frequent visitor, I want to filter watches by price and brands so that I can quickly compare different watch models.
+
+Tasks:
+
+Zahra will navigate to the shop page, use the filter option to select preferred brands, and compare different watches based on price and design.
+
+Acceptance Criteria:
+
+Given that Zahra is browsing the watch listings, when she applies a filter such as brand or price, then the website should display only the watches based on the filter added by Zahra.
+
+To identify the needs of different users using the website, creating these personas helped a lot. First-time users need clear and simple navigation to browse the website, returning visitors benefit from the search function, and frequent visitors use the filter option to refine their search.
+
+By considering these different user needs when creating the design, it helped a lot because the design is created based on the different user needs and provides a more user-friendly experience for all the visitors to the website.
+
+
+Task 3
 
 
 
