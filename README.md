@@ -575,6 +575,44 @@ This supports first-time visitors with guiding them throughout the website and t
 
 
 
+Design 2: Ahmed Mujtaba
+
+Identify Business Needs and Justify Website Development:
+
+Business Needs:
+
+APA Watches is a retail watch business which sells watches from different brands. At present, the business has a very low online presence and depends on physical in-shop watch purchases. Many customers prefer online research before buying watches, so a limited online presence is a limitation.
+
+Without a website, customers cannot browse all the available watches, cannot compare the prices, etc. This can lead to fewer sales because the competitive business has a very strong online presence and has a more convenient online experience.
+Developing a website for APA watches would allow customers to browse different collections of watches online, customers can compare the prices, choose different brands and contact the business easily.
+
+Issues with the current business:
+
+One of the main problems with the current business model is that it lacks an online platform where customers can browse watches. This Business may lose potential customers because many people prefer to view watches online before buying them or visiting the physical store. 
+
+Another issue is that at present, there is no direct way to contact the business to ask a question about the watch availability or any product-related business. A website with a contact form would make communication between the customers and the business much easier.
+
+Without a website, the business has very little presence compared to the competitor’s business.
+
+Competitive Analysis:
+
+To have a better understanding of how successful wat h retailers design their website. The website of Watchfinder & co was selected and analysed. This business is a well-known online watch retailer that sells watches and has a platform for customers to browse and purchase watches.
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/16eed71e-8a1f-4288-b42b-364d1c1659fd" />
+
+One key feature of this website is the navigation menu, which is at the top of the page. The menu has options such as offers, buy, sell and exchange, allowing the users of the website to navigate between different sections of the website. This allows the user to quickly find the service they require.
+
+Another important feature of the website is the search function located in the top right corner. This allows the user to quickly research the specific watch brands, models, etc., which improves the usability for returning customers.
+
+The homepage also includes a large banner section displaying different watches and promotional content. This helps the website to look good, and it attracts the user’s attention when they use or when they first visit the website.
+
+Below the banner, the website provides additional information about the services they are providing, such as the location of the Boutiques and other info such as the number of watches available. This helps the business to help the customer understand the business and the range of services it is offering.
+
+By analysing the website, several useful features were identified that helped in the making of the design of the APA watches website. These include easy and clear navigation around the website, a search function and strong visual elements that highlight important products and services.
+
+<img width="1522" height="992" alt="image" src="https://github.com/user-attachments/assets/0b3e419f-2a7b-4f92-b461-c981c1941cb7" />
+
+
 
 
 
