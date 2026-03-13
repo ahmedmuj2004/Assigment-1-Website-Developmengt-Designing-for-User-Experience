@@ -1,5 +1,5 @@
 # Assigment-1---Web-Designing-
-- Design 1: By Philip Cristea and Amin warsame
+- Design 1: By Philip Cristea 
 
 Investigation of current Business Issues:
 
